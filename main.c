@@ -1,7 +1,7 @@
 /*This program was created for the purpose of asking the user to enter a string so that it can be reversed.
  *
  * Author: Angel Daniel Olvera Perales
- * Date: October 17
+ * Date: October 17.
  * email:angelolvera00@gmail.com
  */
 #include <stdio.h>
