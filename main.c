@@ -1,4 +1,4 @@
-/*This program was created for the purpose of asking the user to enter a string so that it can be reversed.
+/*This program was created for the purpose of asking the user to enter a string so that it can be reversed
  *
  * Author: Angel Daniel Olvera Perales
  * Date: October 17
